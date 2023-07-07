@@ -18,6 +18,8 @@ export function convertCSLJSON (source) {
     'article-magazine': MAGAZINE_ARTICLE_REF,
     'article-newspaper': NEWSPAPER_ARTICLE_REF,
     'article-journal': JOURNAL_ARTICLE_REF,
+    // for fix  Conversion error 
+    'journal-article': JOURNAL_ARTICLE_REF,
     // "bill"
     'book': BOOK_REF,
     // "broadcast"
